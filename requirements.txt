@@ -1,0 +1,8 @@
+pipenv
+django
+
+#dev packages
+isort
+black
+autoflake
+flake8
