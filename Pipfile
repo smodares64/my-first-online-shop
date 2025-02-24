@@ -16,4 +16,3 @@ pre-commit="*"
 [requires]
 python_version = "3.12"
 
-[dev-packages]
